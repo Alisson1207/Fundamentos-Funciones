@@ -191,19 +191,3 @@ Object.values(biosilPerformance).includes("") ? console.log("Error: Existen espa
 
 // Verificar claves en el objeto
 Object.keys(biosilPerformance).includes("") ? console.log("Error: Existen claves vacías") : console.log("OK");
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
